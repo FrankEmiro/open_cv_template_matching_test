@@ -1,0 +1,14 @@
+{
+  "name": "lucas_test",
+  "version": "1.0.0",
+  "description": "testing Opencv template matching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "francesco emiro",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
